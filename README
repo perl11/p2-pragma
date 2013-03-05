@@ -1,0 +1,29 @@
+p2 version 0.01
+===============
+
+use p2 is used to enable extensions for the 
+experimental p2 perl5 implementation.
+
+It needs to fail on p5p perl currently, but it would
+be fantastic if these extensions can be used with p5p
+perl also someday.
+
+See http://perl11.org/p2/
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2013 by perl11.org
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.14 or,
+at your option, any later version of Perl 5 you may have available.
+
