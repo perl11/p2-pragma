@@ -17,13 +17,14 @@ p2 - activate p2 extensions
 
 =head1 DESCRIPTION
 
-p2 is in planning stage still, and I don't believe p5p perl
-will be able to mimic those features. But who knows. A lot of
-perl6 and p5i was implemented.
+use p2 is used to enable extensions for the
+experimental p2 perl5 implementation.
 
-=head1 SEE ALSO
+It needs to fail on p5p perl currently, but it would
+be fantastic if these extensions can be used with p5p
+perl also someday.
 
-L<http://perl11.org/p2/>
+See L<http://perl11.org/p2/>
 
 =head1 AUTHOR
 
@@ -31,7 +32,7 @@ Reini Urban, E<lt>rurban@cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2013 by Reini Urban
+Copyright (C) 2013 by perl11.org
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.14 or,
