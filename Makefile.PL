@@ -9,7 +9,7 @@ WriteMakefile(
      {
       resources =>
       {
-       repository  => 'http://github.com/rurban/p2-pragma',
+       repository  => 'http://github.com/perl11/p2-pragma',
        license     => 'http://dev.perl.org/licenses/',
       },
      }

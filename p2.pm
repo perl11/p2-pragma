@@ -1,7 +1,7 @@
 package p2;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
-die "Sorry, p2 features not available for this perl $^X";
+die "Sorry, p2 features not yet available for $^X";
 
 1;
 __END__
